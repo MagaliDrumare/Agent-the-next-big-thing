@@ -10,4 +10,7 @@
   - https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
 
 # Letta Manage agent Memory 
+- LLMs as Operating Systems: Agent Memory
+  - https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
+    
 
