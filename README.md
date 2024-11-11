@@ -6,7 +6,7 @@
 
 
 # Crew AI 
--Practical Multi- ai agents and advanced use cases with crew AI 
+- Practical Multi- ai agents and advanced use cases with crew AI 
   - https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
 
 # Letta Manage agent Memory 
