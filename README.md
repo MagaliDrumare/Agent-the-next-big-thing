@@ -1,3 +1,10 @@
+
+# What is Agentic AI? Is It the Next Big Thing?
+- https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
+
+# Why Every App You Use Will Soon Have an AI AGENT - Claude 3.5 Tool Us
+- https://youtu.be/odR3gElO-rc?feature=shared
+
 # AWS Bedrock 
 - Serverless Agentic Workflows with Amazon Bedrock
   - https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
@@ -14,5 +21,7 @@
   - https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
 - Letta agents have programmable in-context memory. This means a section of the context window is reserved for editable memory: context that can be edited by memory editing tools. Like standard system prompts, the memory also can be used to define the behavior of the agent and store personalization data. The key distinction is that this data can be modified over time.
   - https://docs.letta.com/introduction
+ 
+  
     
 
