@@ -11,9 +11,6 @@
 ### What is Agentic AI? Is It the Next Big Thing?
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
-### Why Every App You Use Will Soon Have an AI AGENT - Claude 3.5 Tool Us
-- https://youtu.be/odR3gElO-rc?feature=shared
-
 # Benchmark Agents 
 
 ### Open AI Realtime Agents 
