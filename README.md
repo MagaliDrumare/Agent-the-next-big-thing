@@ -14,7 +14,13 @@
 ### Why Every App You Use Will Soon Have an AI AGENT - Claude 3.5 Tool Us
 - https://youtu.be/odR3gElO-rc?feature=shared
 
-# Benchmark 
+# Benchmark Agents 
+
+### Open AI Realtime Agents 
+- https://github.com/openai/openai-realtime-agents
+
+### Hugginface SmoloAgents 
+- https://youtu.be/tBXAwCH6rcU?feature=shared
 
 ### AWS Bedrock 
 - Serverless Agentic Workflows with Amazon Bedrock
