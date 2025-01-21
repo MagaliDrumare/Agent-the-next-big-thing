@@ -4,6 +4,10 @@
 ### Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024
 - https://youtu.be/KrRD7r7y7NY?feature=shared
 
+### Google Whitepaper on AI Agents 
+- pdf : https://archive.org/details/google-ai-agents-whitepaper/page/28/mode/2up
+- video : https://youtu.be/15_8Rtdu0HY?feature=shared
+
 ### What is Agentic AI? Is It the Next Big Thing?
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
