@@ -22,6 +22,9 @@
 ### ChatGPT Tasks 
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
+### Create Agent with Claude - Anthropic 
+- https://youtu.be/OCgzdPUEhyI?feature=shared
+
 ### Hugginface SmolAgents 
 - Github smolagent : https://github.com/huggingface/smolagents
 - Build good agent : https://huggingface.co/docs/smolagents/tutorials/building_good_agents
