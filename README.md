@@ -21,6 +21,7 @@
 
 ### Hugginface SmolAgents 
 -https://huggingface.co/docs/smolagents/index
+-https://huggingface.co/docs/smolagents/tutorials/building_good_agents
 - https://youtu.be/tBXAwCH6rcU?feature=shared
 
 ### AWS Bedrock 
