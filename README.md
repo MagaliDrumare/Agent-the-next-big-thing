@@ -19,10 +19,13 @@
 ### Open AI Realtime Agents 
 - https://github.com/openai/openai-realtime-agents
 
+### ChatGPT Tasks 
+- https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
+
 ### Hugginface SmolAgents 
--https://huggingface.co/docs/smolagents/index
--https://huggingface.co/docs/smolagents/tutorials/building_good_agents
-- https://youtu.be/tBXAwCH6rcU?feature=shared
+- Github smolagent : https://github.com/huggingface/smolagents
+- Build good agent : https://huggingface.co/docs/smolagents/tutorials/building_good_agents
+- Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
 
 ### AWS Bedrock 
 - Serverless Agentic Workflows with Amazon Bedrock
