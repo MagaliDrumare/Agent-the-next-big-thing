@@ -19,7 +19,8 @@
 ### Open AI Realtime Agents 
 - https://github.com/openai/openai-realtime-agents
 
-### Hugginface SmoloAgents 
+### Hugginface SmolAgents 
+-https://huggingface.co/docs/smolagents/index
 - https://youtu.be/tBXAwCH6rcU?feature=shared
 
 ### AWS Bedrock 
