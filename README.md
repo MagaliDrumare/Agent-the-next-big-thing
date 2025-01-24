@@ -13,10 +13,15 @@
 
 # Benchmark Agents 
 
-### Open AI Realtime Agents 
+### Open AI 
+ #### Open AI Operator 
+A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.
+-Operator : https://openai.com/index/introducing-operator/
+
+ #### Open AI Realtime Agents 
 - https://github.com/openai/openai-realtime-agents
 
-### ChatGPT Tasks 
+ #### ChatGPT Tasks 
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
 ### Create Agent with Claude - Anthropic 
