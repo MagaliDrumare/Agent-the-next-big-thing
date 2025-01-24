@@ -20,7 +20,7 @@
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
 ### Create Agent with Claude - Anthropic 
-- https://youtu.be/OCgzdPUEhyI?feature=shared
+- Crée des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
 
 ### Hugginface SmolAgents 
 - Github smolagent : https://github.com/huggingface/smolagents
