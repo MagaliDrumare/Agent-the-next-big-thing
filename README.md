@@ -21,6 +21,7 @@
 
 ### Create Agent with Claude - Anthropic 
 - Crée des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
+- N8N, Intégrer l’intelligence de Claude avec Google Calendar et Gmail pour automatiser tes tâches super efficacement : https://youtu.be/yWF3NvWdCPA?feature=shared
 
 ### Hugginface SmolAgents 
 - Github smolagent : https://github.com/huggingface/smolagents
