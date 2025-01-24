@@ -20,6 +20,7 @@
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
 ### Create Agent with Claude - Anthropic 
+- Building toward Computer Use with Anthropic : https://learn.deeplearning.ai/courses/building-toward-computer-use-with-anthropic/lesson/1/introduction
 - Crée des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
 - N8N, Intégrer l’intelligence de Claude avec Google Calendar et Gmail pour automatiser tes tâches super efficacement : https://youtu.be/yWF3NvWdCPA?feature=shared
 
@@ -29,20 +30,15 @@
 - Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
 
 ### AWS Bedrock 
-- Serverless Agentic Workflows with Amazon Bedrock
-  - https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
-- AWS Lab 
-  - https://awslabs.github.io/multi-agent-orchestrator/
+- Serverless Agentic Workflows with Amazon Bedrock:  https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
+- AWS Lab : https://awslabs.github.io/multi-agent-orchestrator/
 
 ### Crew AI 
-- Practical Multi- ai agents and advanced use cases with crew AI 
-  - https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
+- Practical Multi- ai agents and advanced use cases with crew AI  : https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
 
 ### Letta Manage agent Memory 
-- LLMs as Operating Systems: Agent Memory
-  - https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
-- Letta agents have programmable in-context memory. This means a section of the context window is reserved for editable memory: context that can be edited by memory editing tools. Like standard system prompts, the memory also can be used to define the behavior of the agent and store personalization data. The key distinction is that this data can be modified over time.
-  - https://docs.letta.com/introduction
+- LLMs as Operating Systems: Agent Memory : https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
+- Letta agents have programmable in-context memory. This means a section of the context window is reserved for editable memory: context that can be edited by memory editing tools. Like standard system prompts, the memory also can be used to define the behavior of the agent and store personalization data. The key distinction is that this data can be modified over time :  https://docs.letta.com/introduction
  
   
     
