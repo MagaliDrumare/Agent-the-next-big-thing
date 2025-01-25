@@ -41,6 +41,10 @@ A research preview of an agent that can use its own browser to perform tasks for
 - Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
 
 
+### Vertex AI Agents 
+- https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
+
+
 ### AWS Bedrock 
 - Serverless Agentic Workflows with Amazon Bedrock:  https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 - AWS Lab : https://awslabs.github.io/multi-agent-orchestrator/
