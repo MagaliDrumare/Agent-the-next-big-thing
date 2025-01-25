@@ -41,7 +41,10 @@ A research preview of an agent that can use its own browser to perform tasks for
 - Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
 
 
-### Vertex AI Agents 
+### Google Agentspace 
+#### NotebookML + 
+- https://notebooklm.google/plus
+#### Vertex AI Agents 
 - https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
 
 
