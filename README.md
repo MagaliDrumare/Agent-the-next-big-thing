@@ -45,6 +45,9 @@ A research preview of an agent that can use its own browser to perform tasks for
 - Serverless Agentic Workflows with Amazon Bedrock:  https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 - AWS Lab : https://awslabs.github.io/multi-agent-orchestrator/
 
+### Cohere North 
+North combines LLMs, search, and automation into one secure AI workspace. It outperforms Microsoft Copilot and Google Vertex AI Agent Builder, seamlessly boosting workforce productivity and operational efficiency.
+- https://cohere.com/blog/north-eap
 
 ### Crew AI 
 - Practical Multi- ai agents and advanced use cases with crew AI  : https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
