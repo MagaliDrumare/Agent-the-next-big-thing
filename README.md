@@ -39,7 +39,7 @@ A research preview of an agent that can use its own browser to perform tasks for
 - Github smolagent : https://github.com/huggingface/smolagents
 - Build good agent : https://huggingface.co/docs/smolagents/tutorials/building_good_agents
 - Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
-
+- build your own OpenAI Operator at home : https://huggingface.co/blog/smolagents-can-see
 
 ### Google Agentspace 
 #### NotebookML + 
