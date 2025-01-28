@@ -30,14 +30,13 @@ A research preview of an agent that can use its own browser to perform tasks for
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
 
-### Create Agent with Claude - Anthropic 
+### Claude - Anthropic 
 #### Building toward Computer Use with Anthropic
 - Building toward Computer Use with Anthropic : https://learn.deeplearning.ai/courses/building-toward-computer-use-with-anthropic
 - Computer Use démo (competitor of open AI operator) : https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo
 - Vidéo made for this démo : https://youtu.be/Q8uVkJ4-kcw
 #### Créer des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
 #### N8N, Intégrer l’intelligence de Claude avec Google Calendar et Gmail pour automatiser tes tâches : https://youtu.be/yWF3NvWdCPA?feature=shared
-
 
 ### Hugginface SmolAgents 
 - Github smolagent : https://github.com/huggingface/smolagents
