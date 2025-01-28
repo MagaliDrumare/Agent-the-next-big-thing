@@ -18,8 +18,7 @@
 # 👮‍♂️ Benchmark Agents 
 
 ### 🕵️‍♂️ Open AI 
- #### Open AI Operator 
-A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.
+ #### Open AI Operator -Available to Pro users in the U.S- 
 -Operator : https://openai.com/index/introducing-operator/
 
  #### Open AI Realtime Agents 
@@ -30,9 +29,9 @@ A research preview of an agent that can use its own browser to perform tasks for
 
 ### 🕵️‍♂️ Microsoft Magentic One 
 Magentic-One, a new generalist multi-agent system for solving open-ended web and file-based tasks across a variety of domains. Magentic-One represents a significant step towards developing agents that can complete tasks that people encounter in their work and personal lives. We are also releasing an open-source implementation of Magentic-One(opens in new tab) on Microsoft AutoGen, our popular open-source framework for developing multi-agent applications.
-#### Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks : https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
-#### Microsoft’s New Magnetic-One AI System : https://youtu.be/z3spbIBWZFU?si=j9QYo1_vqOm-5tKO
-#### Le nouvel agent d'IA fou de Microsoft, Magentic-1 testé : https://youtu.be/67D24upxzZ8?si=NStW9PcaPIFIwZPT
+- Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks : https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
+- Microsoft’s New Magnetic-One AI System : https://youtu.be/z3spbIBWZFU?si=j9QYo1_vqOm-5tKO
+- Le nouvel agent d'IA fou de Microsoft, Magentic-1 testé : https://youtu.be/67D24upxzZ8?si=NStW9PcaPIFIwZPT
 
 
 ### 🕵️‍♂️ Claude - Anthropic 
@@ -40,8 +39,8 @@ Magentic-One, a new generalist multi-agent system for solving open-ended web and
 - Building toward Computer Use with Anthropic : https://learn.deeplearning.ai/courses/building-toward-computer-use-with-anthropic
 - Computer Use démo (competitor of open AI operator) : https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo
 - Vidéo made for this démo : https://youtu.be/Q8uVkJ4-kcw
-#### Créer des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
-#### N8N, Intégrer l’intelligence de Claude avec Google Calendar et Gmail pour automatiser tes tâches : https://youtu.be/yWF3NvWdCPA?feature=shared
+- Créer des agents IA avec Claude : https://youtu.be/OCgzdPUEhyI?feature=shared
+- N8N, Intégrer l’intelligence de Claude avec Google Calendar et Gmail pour automatiser tes tâches : https://youtu.be/yWF3NvWdCPA?feature=shared
 
 ### 🕵️‍♂️ Hugginface SmolAgents 
 - Github smolagent : https://github.com/huggingface/smolagents
@@ -50,10 +49,8 @@ Magentic-One, a new generalist multi-agent system for solving open-ended web and
 - build your own OpenAI Operator at home : https://huggingface.co/blog/smolagents-can-see
 
 ### 🕵️‍♂️ Google Agentspace 
-#### NotebookML + 
-- https://notebooklm.google/plus
-#### Vertex AI Agents 
-- https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
+- NotebookML + : https://notebooklm.google/plus
+- Vertex AI Agents : https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
 
 ### 🕵️‍♂️ AWS Bedrock 
 - Serverless Agentic Workflows with Amazon Bedrock: https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
