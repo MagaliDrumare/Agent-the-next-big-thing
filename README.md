@@ -14,6 +14,9 @@
 ### What is Agentic AI? Is It the Next Big Thing?
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
+### AgentForce Salesforce 
+- AWS re:Invent 2024 - Build AI agents with Salesforce Agentforce : https://youtu.be/L-nBTPYcTKQ?si=iwz_7rppne7wUDFP
+
 
 # 👮‍♂️ Benchmark Agents 
 
@@ -32,7 +35,6 @@ Magentic-One, a new generalist multi-agent system for solving open-ended web and
 - Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks : https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
 - Microsoft’s New Magnetic-One AI System : https://youtu.be/z3spbIBWZFU?si=j9QYo1_vqOm-5tKO
 - Le nouvel agent d'IA fou de Microsoft, Magentic-1 testé : https://youtu.be/67D24upxzZ8?si=NStW9PcaPIFIwZPT
-
 
 ### 🕵️‍♂️ Claude - Anthropic 
 #### Building toward Computer Use with Anthropic
@@ -66,6 +68,8 @@ North combines LLMs, search, and automation into one secure AI workspace. It out
 ### 🕵️‍♂️ Letta Manage agent Memory 
 - LLMs as Operating Systems: Agent Memory : https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
 - Letta agents have programmable in-context memory. This means a section of the context window is reserved for editable memory: context that can be edited by memory editing tools. Like standard system prompts, the memory also can be used to define the behavior of the agent and store personalization data. The key distinction is that this data can be modified over time :  https://docs.letta.com/introduction
+
+
  
   
     
