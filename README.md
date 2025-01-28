@@ -29,10 +29,10 @@ A research preview of an agent that can use its own browser to perform tasks for
 - https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt
 
 ### Microsoft Magentic One 
- Magentic-One, a new generalist multi-agent system for solving open-ended web and file-based tasks across a variety of domains. Magentic-One represents a significant step towards developing agents that can complete tasks that people encounter in their work and personal lives. We are also releasing an open-source implementation of Magentic-One(opens in new tab) on Microsoft AutoGen, our popular open-source framework for developing multi-agent applications.
-### Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks : https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
-### Microsoft’s New Magnetic-One AI System : https://youtu.be/z3spbIBWZFU?si=j9QYo1_vqOm-5tKO
-### Le nouvel agent d'IA fou de Microsoft, Magentic-1 testé : https://youtu.be/67D24upxzZ8?si=NStW9PcaPIFIwZPT
+Magentic-One, a new generalist multi-agent system for solving open-ended web and file-based tasks across a variety of domains. Magentic-One represents a significant step towards developing agents that can complete tasks that people encounter in their work and personal lives. We are also releasing an open-source implementation of Magentic-One(opens in new tab) on Microsoft AutoGen, our popular open-source framework for developing multi-agent applications.
+#### Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks : https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
+#### Microsoft’s New Magnetic-One AI System : https://youtu.be/z3spbIBWZFU?si=j9QYo1_vqOm-5tKO
+#### Le nouvel agent d'IA fou de Microsoft, Magentic-1 testé : https://youtu.be/67D24upxzZ8?si=NStW9PcaPIFIwZPT
 
 
 ### Claude - Anthropic 
