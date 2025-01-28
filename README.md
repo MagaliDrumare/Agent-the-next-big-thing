@@ -57,7 +57,7 @@ A new generalist multi-agent system for solving open-ended web and file-based ta
 
 ### 🕵️‍♂️ Bee Agent Framework - IBM 
 - Bee Agent Framework - IBM : https://github.com/i-am-bee/bee-agent-framework
-- Meet the Bee Agent Platform 👋 a new platform for building AI agents : https://youtu.be/3TTPDp6iqWo?si=evePTNaEnaHI4bCa
+- Meet the Bee Agent Platform a new platform for building AI agents : https://youtu.be/3TTPDp6iqWo?si=evePTNaEnaHI4bCa
 
 ### 🕵️‍♂️ Google Agentspace 
 - NotebookML + : https://notebooklm.google/plus
