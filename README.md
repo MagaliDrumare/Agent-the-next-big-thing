@@ -14,7 +14,7 @@
 ### What is Agentic AI? Is It the Next Big Thing?
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
-### AgentForce Salesforce 
+### AgentForce by Salesforce 
 - AWS re:Invent 2024 - Build AI agents with Salesforce Agentforce : https://youtu.be/L-nBTPYcTKQ?si=iwz_7rppne7wUDFP
 
 
