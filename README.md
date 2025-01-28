@@ -14,7 +14,7 @@
 ### What is Agentic AI? Is It the Next Big Thing?
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
--------------------------------------------------------------------------
+
 
 # Benchmark Agents 
 
@@ -51,9 +51,8 @@ A research preview of an agent that can use its own browser to perform tasks for
 #### Vertex AI Agents 
 - https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
 
-
 ### AWS Bedrock 
-- Serverless Agentic Workflows with Amazon Bedrock:  https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
+- Serverless Agentic Workflows with Amazon Bedrock: https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 - AWS Lab : https://awslabs.github.io/multi-agent-orchestrator/
 
 ### Cohere North 
@@ -62,7 +61,6 @@ North combines LLMs, search, and automation into one secure AI workspace. It out
 
 ### Crew AI 
 - Practical Multi- ai agents and advanced use cases with crew AI  : https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
-
 
 ### Letta Manage agent Memory 
 - LLMs as Operating Systems: Agent Memory : https://learn.deeplearning.ai/courses/llms-as-operating-systems-agent-memory
