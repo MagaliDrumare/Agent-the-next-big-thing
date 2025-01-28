@@ -55,6 +55,10 @@ A new generalist multi-agent system for solving open-ended web and file-based ta
 - Nouveau - Facile à apprendre - Agents IA : Smolagents (par HuggingFace) : https://youtu.be/tBXAwCH6rcU?feature=shared
 - build your own OpenAI Operator at home : https://huggingface.co/blog/smolagents-can-see
 
+### 🕵️‍♂️ Bee Agent Framework - IBM 
+- Bee Agent Framework - IBM : https://github.com/i-am-bee/bee-agent-framework
+- Meet the Bee Agent Platform 👋 a new platform for building AI agents : https://youtu.be/3TTPDp6iqWo?si=evePTNaEnaHI4bCa
+
 ### 🕵️‍♂️ Google Agentspace 
 - NotebookML + : https://notebooklm.google/plus
 - Vertex AI Agents : https://youtu.be/WNsJNIVALwY?si=w369mN1qvKT0lb3u
