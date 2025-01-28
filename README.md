@@ -19,7 +19,7 @@
 
 ### 🕵️‍♂️ Open AI 
  #### Open AI Operator -Available to Pro users in the U.S- 
--https://openai.com/index/introducing-operator/
+- https://openai.com/index/introducing-operator/
 
  #### Open AI Realtime Agents 
 - https://github.com/openai/openai-realtime-agents
