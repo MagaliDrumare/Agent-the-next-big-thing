@@ -2,19 +2,24 @@
 # 👮‍♂️ Agent the next big thing 
 
 ### Inside Anthropic's Race to Build a Smarter Claude and Human-Level AI | WSJ
+The Wall Street Journal video explores Anthropic's efforts to develop a more advanced version of its language model, Claude. Anthropic aims to create an AI agent with enhanced capabilities, including improved reasoning, understanding of complex tasks, and the ability to generate more human-like responses. The race to build human-level AI is highlighted, with Anthropic's focus on safety and ethical considerations being a key aspect of their research.
 - https://youtu.be/snkOMOjiVOk?feature=shared
 
 ### Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024
+In his BUILD 2024 talk, Andrew Ng discusses the rise of AI agents and the concept of agentic reasoning. He emphasizes the potential of AI agents to exhibit human-like qualities and make decisions based on their understanding of the environment. Ng explores the idea of "agentic loops," where AI agents can continuously learn and improve their decision-making processes. He also touches on the challenges and opportunities presented by the development of AI agents.
 - https://youtu.be/KrRD7r7y7NY?feature=shared
 
 ### Google Whitepaper on AI Agents 
+Google's whitepaper on AI agents provides an in-depth look at their research and advancements in this field. The whitepaper likely covers topics such as the architecture and design of AI agents, their capabilities, and the potential applications across various industries. It may also address the technical challenges and ethical considerations associated with building intelligent AI agents.
 - pdf : https://archive.org/details/google-ai-agents-whitepaper/page/28/mode/2up
 - video : https://youtu.be/15_8Rtdu0HY?feature=shared
 
 ### What is Agentic AI? Is It the Next Big Thing?
+This blog post from Arcee.ai introduces the concept of Agentic AI and its potential impact. It defines Agentic AI as an AI system with agentic qualities, including autonomy, proactivity, and the ability to learn and adapt. The post explores the idea that Agentic AI could revolutionize various industries, from healthcare to finance, by enabling more intelligent and autonomous decision-making. It also discusses the challenges and considerations surrounding the development and deployment of Agentic AI.
 - https://blog.arcee.ai/what-is-agentic-ai-is-it-the-next-big-thing/
 
 ### AgentForce by Salesforce 
+Salesforce's AgentForce is a platform that empowers businesses to build their own AI agents. The AWS re:Invent 2024 video showcases how AgentForce can be utilized to create AI agents for customer service, automation, and other business applications. It demonstrates the ease of building and deploying AI agents using Salesforce's tools, allowing businesses to enhance their operations and provide more efficient services.
 - AWS re:Invent 2024 - Build AI agents with Salesforce Agentforce : https://youtu.be/L-nBTPYcTKQ?si=iwz_7rppne7wUDFP
 
 
