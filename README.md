@@ -86,9 +86,12 @@ North combines LLMs, search, and automation into one secure AI workspace. It out
 - Letta agents have programmable in-context memory. This means a section of the context window is reserved for editable memory: context that can be edited by memory editing tools. Like standard system prompts, the memory also can be used to define the behavior of the agent and store personalization data. The key distinction is that this data can be modified over time :  https://docs.letta.com/introduction
 
 ### 🕵️‍♂️ Ui-Tars ByteDanse TikTok 
-Blog : https://www.deeplearning.ai/the-batch/ui-tars-shows-strong-computer-use-capabilities-in-benchmarks/?utm_campaign=The%20Batch&utm_content=324185870&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
-GitHub : https://github.com/bytedance/UI-TARS-desktop
-Vidéo : https://www.youtube.com/watch?v=NeJlTWwtLyg&t=96s
+Yujian Qin and colleagues at ByteDance and Tsinghua University introduced UI-TARS, 
+a fine-tuned version of the vision-language model Qwen2-VL that uses lines of reasoning to decide which mouse clicks, 
+keyboard presses, and other actions to take in desktop and mobile apps.
+- Blog : https://www.deeplearning.ai/the-batch/ui-tars-shows-strong-computer-use-capabilities-in-benchmarks/?utm_campaign=The%20Batch&utm_content=324185870&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
+- GitHub : https://github.com/bytedance/UI-TARS-desktop
+- Vidéo : https://www.youtube.com/watch?v=NeJlTWwtLyg&t=96s
 
 
  
